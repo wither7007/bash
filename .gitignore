@@ -1,3 +1,4 @@
+.ssh
 /home/steff007/.bun
 /home/steff007/.cache/do
 /home/steff007/.cache/gitstatus
@@ -14,6 +15,8 @@
 /home/steff007/.cache/youtube-dl
 /home/steff007/.cache/yt-dlp
 !/home/steff007/script/functions.sh
+.config/nvim
+.config/nvim/
 node_modules/
 /hist
 p11/

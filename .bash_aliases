@@ -17,7 +17,7 @@ alias duh='du -h --max-depth=1'
 alias e='echo $?'
 alias ehis="v $(echo $HISTFILE)"
 alias f1='fd --changed-within 2day'
-alias fda="fd -H --no-ignore-vcs "
+alias fda="fd -tf -I -d 1 -a --no-ignore-vcs "
 alias fdc="fd -H -I -d 1  -td | column"
 alias fdf="fd -H -I -d 1  -tf | column"
 alias fdh='fd --help | v -'
