@@ -23,6 +23,7 @@ alias fdf="fd -H -I -d 1  -tf | column"
 alias fdh='fd --help | v -'
 alias fdi='fd  -H -I '
 alias fdm="fdi --ignore-file ~/.fdignore"
+alias fdir="fd -H -I . "
 alias fm='vifm'
 alias fp='find `pwd` -name '
 alias ga='git add'
