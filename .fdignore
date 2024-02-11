@@ -6,7 +6,6 @@
 node_modules/
 mygits/
 .npm
-*.jpg
 bhistory
 package-lock.json
 package.json

@@ -129,3 +129,6 @@ PROMPT='${PWD/#$HOME/~} ${vcs_info_msg_0_} %# '
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
+mps
+#~/script/recents
+#head /mnt/c/projects/recent.txt
