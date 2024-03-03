@@ -11,3 +11,4 @@ package-lock.json
 package.json
 sql_hist
 sql_hist_awk
+.ipynb_checkpoints/

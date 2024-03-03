@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =3
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/mnt/c/projects/jup/.ipynb_checkpoints'
 let g:netrw_dirhist_3='/home/steff007/.config/nvim'
 let g:netrw_dirhist_2='/home/steff007/.ssh'
 let g:netrw_dirhist_1='/mnt/c/projects/bookmark'
@@ -9,4 +10,3 @@ let g:netrw_dirhist_8='/mnt/c/projects/server/wds'
 let g:netrw_dirhist_7='/mnt/c/you/evans'
 let g:netrw_dirhist_6='/mnt/c/mygits/htmlTemplate'
 let g:netrw_dirhist_5='/mnt/c/mygits/50projects50days/verify-account-ui'
-let g:netrw_dirhist_4='/mnt/c/projects/music/gut/clips'
