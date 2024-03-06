@@ -1,4 +1,3 @@
-let @b='this is this is my thing'
 set undodir=~\.config\nvim\undodir
 " set undofile
 "/home/steff007/.config/nvim/init.vim
@@ -25,15 +24,11 @@ noremap <leader>; vg_y
 noremap <leader>n :%s#\\n#\r#g
 noremap <leader>k 0cwkill -9 0v4ey
 nnoremap <leader>0 gg0"ldG
-"https://vim.fandom.com/wiki/Get_the_name_of_the_current_file#:~:text=In%20command%20mode%20(after%20typing,the%20name%20before%20the%20cursor).
-"put file name and path
-"noremap <leader>p :put =expand('%:p')
 noremap <leader>l ^vg_y
 noremap <leader>q :qa!<cr>
 noremap <leader>w :wa<cr>:qa!
 "nnoremap <Leader>m :%s/\//g
 nnoremap <leader>m :%s///g<CR>
-"remember ggggggg s!!!
 map gl vg_y
 map gn :bn<cr>
 map gp :bp<cr>
