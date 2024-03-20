@@ -3,7 +3,7 @@
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 www.ibm.com	0	0	1668228509	31536000
 ia804603.us.archive.org	0	0	1678083434	15724800
-github.com	0	1	1705367754	31536000
+github.com	0	1	1710051833	31536000
 bench.sh	0	0	1705367754	31536000
 www.youtube.com	0	0	1702717784	31536000
 hn.algolia.com	0	1	1694419039	31536000
@@ -22,7 +22,7 @@ www.mnlottery.com	0	1	1709669195	31536000
 bridging.org	0	0	1707878788	31536000
 www.freecodecamp.org	0	1	1681802262	31536000
 ioflood.com	0	0	1706687310	31536000
-raw.githubusercontent.com	0	0	1709588649	31536000
+raw.githubusercontent.com	0	0	1710826812	31536000
 api.coronavirus.data.gov.uk	0	1	1706841375	31536000
 news.google.com	0	0	1703041610	31536000
 en.wikipedia.org	0	1	1707313643	106384710

@@ -97,7 +97,10 @@ set pastetoggle=<F2>
 call plug#begin()
 "Plug 'myhere/vim-nodejs-complete'
 "Plug 'b3nj5m1n/kommentary'
-Plug 'preservim/nerdcommenter'
+Plug 'https://github.com/vim-airline/vim-airline'
+"Plug 'preservim/nerdcommenter'
+Plug 'tpope/vim-commentary'
+Plug 'preservim/nerdtree'
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Plug 'davidhalter/jedi-vim'
 " Plug 'numToStr/Comment.nvim'
@@ -111,14 +114,11 @@ Plug 'preservim/nerdcommenter'
 "Plug 'https://github.com/jiangmiao/auto-pairs'
 "Plug 'vim-scripts/bash-support.vim'
 "Plug 'https://github.com/tpope/vim-commentary'
-Plug 'https://github.com/vim-airline/vim-airline'
 "Plug 'https://github.com/AndrewRadev/linediff.vim'
 "Plug 'https://tpope.io/vim/sensible.git'
-Plug 'preservim/nerdtree'
 "Plug 'tpope/vim-surround'
 "Plug 'https://github.com/scrooloose/nerdtree'
 "Plug 'https://github.com/numEricL/nerdtree-live-preview'
-
 "Plug 'jpalardy/vim-slime', { 'for': 'python' }
 "Plug 'hanschen/vim-ipython-cell', { 'for': 'python' }
 "Plug 'https://github.com/davidhalter/jedi-vim'
