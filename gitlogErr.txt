@@ -1,0 +1,83 @@
+commit f1f630134547957bd09c49ebbde4a5ff288bac48
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Tue Mar 19 23:57:49 2024 -0500
+
+    gh/hosts.yml
+
+commit 329321bd50083c1c9037d4a84af8a7401819c06d
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Tue Mar 19 23:55:45 2024 -0500
+
+    gh/hosts.yml
+
+commit a9a8089e7e60bc64ad239f7b02aef50b32cf145b
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Tue Mar 19 23:54:28 2024 -0500
+
+    clean before git
+
+commit d810e21abc3615e83d7e4de3c3af1143fd40ff5b
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Tue Mar 19 23:46:51 2024 -0500
+
+    clean before git
+7bf7595f7bf03284a6dad64879ee1179113a15bb
+commit 7bf7595f7bf03284a6dad64879ee1179113a15bb
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Tue Mar 19 23:42:41 2024 -0500
+
+    clean before git
+
+commit 3ef9836b4e5d4693b7bc34e45704f892664f9a38
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Wed Mar 6 00:30:08 2024 -0600
+
+    configs
+
+commit 56e193e110b2285242a58d889323bbe3857f6f39
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Sun Mar 3 00:27:20 2024 -0600
+
+    nvim debug
+
+commit ce18f251e3116655c38a0803a55513f3b1e7ed7f
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Wed Feb 14 12:26:45 2024 -0600
+
+    powershel start
+
+commit 4340503c3126723ea273ebf4ed1b57129695f7a5
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Sun Feb 11 17:50:20 2024 -0600
+
+    alias update from ssh branch
+
+commit 138cd6f99859ed1ee08966bddf84aec8caf64929
+Author: wither7007 <jimsteffes@outlook.com>
+Date:   Sun Feb 11 14:22:38 2024 -0600
+
+    ssh stuff
+
+commit 09e8570abef18015c4f2c02ef0ac4af57c444419
+Author: Jim wsl laptop Steffes <jimsteffes@outlook.com>
+Date:   Sun Feb 11 13:30:49 2024 -0600
+
+    git multiples
+
+commit 2a1e4ee0abc133fa878568184fbc9c3aa6872584
+Author: Jim wsl laptop Steffes <jimsteffes@outlook.com>
+Date:   Tue Jan 30 18:21:09 2024 -0600
+
+    cleaned
+
+commit e94e2cecf1242ed0bed7a8d55a8702b8b5a41495
+Author: Jim wsl laptop Steffes <jimsteffes@outlook.com>
+Date:   Tue Jan 30 14:40:52 2024 -0600
+
+    cleaned
+
+commit 2e0cff58e483f9ce6ebd458f7e4764cae9fd0e9f
+Author: Jim wsl laptop Steffes <jimsteffes@outlook.com>
+Date:   Wed Jan 24 20:10:02 2024 -0600
+
+    initial
