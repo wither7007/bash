@@ -16,6 +16,8 @@
 !/home/steff007/script/functions.sh
 /home/steff007/.config/gh 
 /home/steff007/.config/gh/*
+.config/gh/
+.dbus/
 .ssh
 node_modules/
 /hist
